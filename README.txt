@@ -7,3 +7,5 @@ Third commit, seems you cant. Also i'm very sick rn. For now it looks like you h
 Fourth commit, didn't get a job again today, guess ill be studying for the next 48 hours..
 
 Fifth commit, learning java, Thinking i should make a discord music bot since Groovy got removed.
+
+Sixth commit, I can do this without looking now, epic!
