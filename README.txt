@@ -11,3 +11,5 @@ Fifth commit, learning java, Thinking i should make a discord music bot since Gr
 Sixth commit, I can do this without looking now, epic!
 
 Seventh commit, technical problems with git, working on it.
+
+Eighth commit, made by Operatik to test contribution.
