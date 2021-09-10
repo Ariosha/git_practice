@@ -9,3 +9,5 @@ Fourth commit, didn't get a job again today, guess ill be studying for the next 
 Fifth commit, learning java, Thinking i should make a discord music bot since Groovy got removed.
 
 Sixth commit, I can do this without looking now, epic!
+
+Seventh commit, technical problems with git, working on it.
