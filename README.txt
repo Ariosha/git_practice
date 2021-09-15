@@ -13,3 +13,5 @@ Sixth commit, I can do this without looking now, epic!
 Seventh commit, technical problems with git, working on it.
 
 Eighth commit, made by Operatik to test contribution.
+
+Nithe commit, Automatically pulled from git, no commands needed!
