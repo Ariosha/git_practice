@@ -19,3 +19,5 @@ Nithe commit, Automatically pulled from git, no commands needed!
 Tenth commit, no caffeine, lots'o work. 
 
 Eleventh commit, got coffee, still work to do!
+
+Twelth commit, Math and physics take prio rn.
