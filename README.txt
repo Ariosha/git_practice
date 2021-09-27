@@ -23,3 +23,5 @@ Eleventh commit, got coffee, still work to do!
 Twelth commit, Math and physics take prio rn.
 
 Thirteenth commit, too much pen and paper, not enough time...
+
+Fourteenth commit, i have a website idea, lets get started.
